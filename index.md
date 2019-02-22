@@ -15,7 +15,7 @@ hero_button:
   href: "/about"
 show_news: false
 show_staff: false
-call_for_entry: ''
+call_for_entry: "/uploads/2019/02/22/reg_00004571_display.jpg"
 entry_description: ''
 menu:
   navigation:
