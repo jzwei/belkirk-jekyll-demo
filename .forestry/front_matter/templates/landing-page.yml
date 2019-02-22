@@ -86,10 +86,8 @@ fields:
 - type: textarea
   name: entry_description
   label: entry description
-  default: |-
-    Philadelphia Sculptors seeks artists to create temporary outdoor floating sculptural installations for our Fall, 2019 exhibition Flow, a collaboration with the Independence Seaport Museum. The exhibition will be sited in the boat basin adjacent to the Museum, located at Penn’s Landing on the Delaware River in Philadelphia and will run from October 11 – November 30, 2019. The intent of the exhibition is to unite art with the river, and with the Museum’s mission and programming. Five juried artists, along with five invited artists previously selected, will interpret the river and how it affects, and is affected by, human and natural history; human and natural migrations; climate change and the environment; economic development; and political currents. The geographic focus of the show is on the Americas and we are seeking artists from Mexico, South and Central America, and Canada, along with artists from the US and its territories. The jurors will be Nato Thompson, and Teresa Jaynes. The exhibition is also co-sponsored by the Dina Wind Art Foundation. There is a $30 submission fee. Accepted artists will receive a $2,000 honorarium.
-
-
-    For more information and how to apply, go to www.philaflow.org.
+  default: 'Philadelphia Sculptors seeks artists to create temporary outdoor floating
+    sculptural installations for our Fall, 2019 exhibition Flow, a collaboration with
+    the Independence Seaport Museum. The exhibition will be sited in the boat basin '
 pages:
 - index.md
