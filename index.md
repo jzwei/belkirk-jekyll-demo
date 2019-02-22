@@ -16,7 +16,12 @@ hero_button:
 show_news: false
 show_staff: false
 call_for_entry: "/uploads/2019/02/22/reg_00004571_display.jpg"
-entry_description: ''
+entry_description: Philadelphia Sculptors seeks artists to create temporary outdoor
+  floating sculptural installations for our Fall, 2019 exhibition Flow, a collaboration
+  with the Independence Seaport Museum. The exhibition will be sited in the boat basin
+  adjacent to the Museum, located at Penn’s Landing on the Delaware River in Philadelphia
+  and will run from October 11 – November 30, 2019. The intent of the exhibition is
+  to u
 menu:
   navigation:
     identifier: _index
